@@ -6,8 +6,6 @@ This project is a copy of one of the projects executed during the Microverse adm
 
 Built With: HTML and CSS
 
-> > > > > > > feature-homePage-design
-
 ## Getting Started
 
 This is an exercise required creating an empty repo,copy the code from one of the projects that were completed during the admissions trial and creating a pull request on the project.
